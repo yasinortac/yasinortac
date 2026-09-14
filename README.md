@@ -1,97 +1,40 @@
+# Yasin Ortaç
 
-<br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+Computer Engineering student at Çanakkale Onsekiz Mart University (ÇOMÜ), Türkiye. I build mobile apps, web platforms and games, and I do web security testing on the side.
 
+Open to full-time roles in mobile, full-stack and game development, in Türkiye or abroad, remote or on-site.
 
- <h2 align="center"> 
- </h2>  
+## Highlights
 
+- **1st place globally, main track, Solana Speedrun 3 Game Jam** (MagicBlock, July 2024) with [Echoes of Eldoria](https://eldahalas.itch.io/echoes-of-eldoria), a fully on-chain, turn-based multiplayer RPG on Solana that our team built in 7 days. Also 1st place in the Superteam Turkey track.
+- **Portivo Emlak**: a B2B platform where real-estate agencies pool their listings and sell to each other's clients. Live on Google Play and the App Store with 8 active agencies and 100+ listings. We built it as a team from the first idea to the store release. [Website](https://portivoemlak.com) · [Live demo](https://portivoemlak.com/demo)
+- **Umuro Games**, Project Developer (Jun 2025 – May 2026): Akita Legends Squad (Google Play, App Store, Nintendo Switch); mobile integration and UI of Clothing Store Simulator.
+- **Hakan Yılmaz Studio**, Intern (Jan 2026): Nakkash: A Miniature Adventure, a game in TOGG's in-car entertainment package.
 
- 
-<div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
+## Projects
 
+Most of this work lives in private repositories; the links go to the live products.
 
+| Project | What it is | Tech |
+|---|---|---|
+| [Portivo Emlak](https://portivoemlak.com) | B2B real-estate network: web, Android and iOS | React Native, Next.js, PostgreSQL, TypeScript |
+| Habifarm | Farm game that grows with the habits you complete in real life | React Native, TypeScript |
+| Divit | Interactive atlas of Turkish history; borders change by year | React Native, Next.js |
+| Kontak | Driving test prep with theory lessons and in-app driving practice | React Native |
+| Land Listing Video Engine | Turns a parcel number into a narrated promo video with satellite and 3D footage | TypeScript |
+| Ada | Spoken English tutor built on speech recognition, an LLM and TTS | Next.js |
+| WAF Security Testing | Lab testing of web application firewalls against SQL injection and XSS | Python, Burp Suite |
+| Freelance websites | 10 websites for local businesses, from design to launch | Next.js |
 
+## Tech
 
-### </path></svg></a> About Me ✅ </h2>
--->
+TypeScript · Python · C# · React Native · Next.js · React · PostgreSQL · Unity · Burp Suite
 
+## Community
 
-<!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Yasin+Ortaç+Channel;)
-  
+- Çanakkale Cyber Security Club: Vice President (2025–2026), Board Member (2024–2025)
+- Turkish Informatics Association (TBD): Çanakkale Youth Representative (2024–2025)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
-</a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </p> </a>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- </p>
+## Contact
 
-<br>
-
- <div align="center"> 
-
-  <a href="https://www.linkedin.com/in/yasinortac/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-  <a href = "mailto:yasin23320123@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
- 
- 
-  <a href="https://www.instagram.com/yasin.ortac/?hl=tr" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
-  </a>
- 
-
-
-</div>
-
- 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
-
-<!-- 
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
--->
-
-
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
-
-
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
- 
-
-
-
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yasinortac)
-
-
+[LinkedIn](https://www.linkedin.com/in/yasinortac) · yasinortac87@gmail.com
